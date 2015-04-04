@@ -1,0 +1,11 @@
+# MUST BE FIRST area
+/usr/ports/net/openldap24-server
+/usr/ports/www/nginx-devel
+/usr/ports/lang/php55
+###
+/usr/ports/www/pecl-zendopcache
+/usr/ports/net/phpldapadmin
+/usr/ports/sysutils/ldapvi
+/usr/ports/security/pam_mkhomedir
+/usr/ports/security/pam_ldap
+/usr/ports/net/nss_ldap
